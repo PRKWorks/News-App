@@ -1,17 +1,25 @@
 # News-App  :newspaper:	
 
+![NewsApp_BG](https://github.com/PRKWorks/News-App/assets/88550114/4f50dbb2-c672-43c0-bffb-2f034cd9277b)
+
 News-App is a reasonably decent news app for iOS. It sources its news from itself along with hundreds of sources both local and nationwide. The UI is serviceable and clean and you can find news on a variety of topics, including sports, entertainment, technology, and more.
 
-## Screenshots
+## 📸 Screenshots
 
-<p float="left">
-<img src="https://user-images.githubusercontent.com/88550114/169022007-9df05a66-042f-4eab-8027-844483210311.png" width="200" height="430" />
-<img src="https://user-images.githubusercontent.com/88550114/169022945-c0b15152-0595-44c0-9a4d-f479c15541d9.png" width="200" height="430" />
-<img src="https://user-images.githubusercontent.com/88550114/169022234-810ce42d-744c-4119-9815-3026c4099548.png" width="200" height="430" />
-<img src="https://user-images.githubusercontent.com/88550114/169022260-bc98d9b0-f2d1-4018-b1c7-0c7979fda5ea.png" width="200" height="430" />
-</p>
+![NewsApp-ScreenShot](https://github.com/PRKWorks/News-App/assets/88550114/18afa6ae-4b35-4a4e-bc29-25c88b08e3a7)
 
-## Modules
+
+## 💡 Motivation and Context
+
+- Real-Time News Updates: Leveraging newsapi.org to fetch real-time news data.
+
+- Smooth Data Rendering: Utilizing Swift for fast and responsive news display.
+
+- User-Friendly Interface: Designing an intuitive easy navigation and readability.
+
+- Enhanced Performance: Optimizing news delivery for swift access and seamless browsing.
+
+## 📌 Modules
 
 o	API Integration.
 
@@ -21,6 +29,6 @@ o	GCD integration.
 
 o	Cache Images.
 
-## API Provider
+## 🌐 API Provider
 
 - [NewsApi](https://newsapi.org/)
